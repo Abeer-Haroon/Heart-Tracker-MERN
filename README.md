@@ -21,7 +21,7 @@ A MERN (Mongodb, ExpressJS, ReactJS, NodeJS) app where patients can check the ri
  
  - Click **Choose a  Connection method**. Select **Connect your application**. Copy the connection string and Replace <password> with the password for the <username> user, as shown below:
  
- ![Connection](images/connection.png)
+ ![Connection](connection.png)
  
  - Click on Collections. Create a database. Name it **Patient Info**.
  
