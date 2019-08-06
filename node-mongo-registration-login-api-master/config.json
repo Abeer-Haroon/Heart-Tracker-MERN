@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb+srv://<username>:<password>@cluster0-lubol.mongodb.net/test?retryWrites=true&w=majority",
+    "secret": "Secret"
+}
