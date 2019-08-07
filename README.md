@@ -1,6 +1,6 @@
 # Heart Tracker MERN App
 
-A MERN (Mongodb, ExpressJS, ReactJS, NodeJS) app where patients can check the risk of developing heart failure by using a predictive model built on [Watson Studio.](https://cloud.ibm.com/catalog/services/watson-studio?bss_account=e366b6e4fb004c5eaccfbe7042b670a4) 
+A MERN (Mongodb, ExpressJS, ReactJS, NodeJS) app where patients can log their health details and keep a track of their heart performance. 
 
 ## Prerequisites
 1. Install MongoDB.
